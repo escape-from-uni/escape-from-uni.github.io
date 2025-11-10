@@ -25,3 +25,9 @@ layout: default
 ![Week 5](assets/images/plan/week5.png)
 ## Week 6
 ![Week 6](assets/images/plan/week6.png)
+
+# Interim Versions of Architectural Diagrams
+
+## First design ![First design](assets/images/designs/first design.png)
+## Middle design ![Middle design](assets/images/designs/middle design.png)
+## Final design ![Final design](assets/images/designs/final design.png)
